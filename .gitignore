@@ -1,0 +1,14 @@
+*.aux
+*.log
+*.synctex.gz
+b.*
+*.bbl
+*.blg
+*.m~
+ex*.txt
+out*.txt
+*.out
+*.toc
+*.o
+*.a
+~*
